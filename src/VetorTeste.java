@@ -18,7 +18,8 @@ public class VetorTeste {
 		Aluno a3 = new Aluno("Danilo");
 		System.out.println(lista.contem(a3));
 		
-		Aluno x = lista.pega(158);
-		System.out.println(x);
+		lista.adiciona(1, a3);
+		System.out.println(lista);
+
 	}
 }
