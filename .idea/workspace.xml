@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c17bf-bb13-47a5-9733-24b2c7824710" name="Changes" comment="Primeiro projeto">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="090c17bf-bb13-47a5-9733-24b2c7824710" name="Changes" comment="Primeiro projeto, inserção e deleção no vetor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Vetor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/VetorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/VetorTeste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VetorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorTeste.java" afterDir="false" />
     </list>
@@ -67,9 +63,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro projeto" />
+    <MESSAGE value="Primeiro projeto, inserção e deleção no vetor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro projeto, inserção e deleção no vetor" />
   </component>
 </project>
