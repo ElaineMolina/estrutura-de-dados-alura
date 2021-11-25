@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c17bf-bb13-47a5-9733-24b2c7824710" name="Changes" comment="Primeiro projeto, inserção e deleção no vetor">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VetorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VetorTeste.java" afterDir="false" />
-    </list>
+    <list default="true" id="090c17bf-bb13-47a5-9733-24b2c7824710" name="Changes" comment="Primeiro projeto, inserção e deleção no vetor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
